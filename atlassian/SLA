@@ -1,0 +1,34 @@
+Service Level Agreement
+
+Version: 1 (updated 26/02/2020)
+
+Full changelog to this SLA is available at the following URL:
+https://github.com/reconquest/legal/commits/master/atlassian/SLA
+
+1. Business Hours and Response Time
+
+We appreciate any feedback you might have for us and guarantee a
+response within one business day from the time of request receipt, although we
+frequently respond much faster.
+
+Our business hours are Monday — Friday, 08:00 — 17:00 GMT time.
+
+2. Support Channels
+
+You can request support through any of the following channels:
+
+* Send an email to we@reconquest.io
+* Slack chat: slack.reconquest.io
+
+3. Support Includes
+
+* Help with issues during installation or upgrade of our add-ons for Atlassian products;
+* Help troubleshooting problems with our add-ons for Atlassian products;
+* Help identifying workarounds related to our add-ons for Atlassian products.
+
+4. Support Does Not Include
+
+* Training;
+* Support for versions of Atlassian products that are no longer supported by our products;
+* Support for issues related to any Atlassian products if the issue is not caused by our product;
+* Support for products developed by other companies.
